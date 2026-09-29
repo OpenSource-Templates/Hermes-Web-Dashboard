@@ -4,7 +4,7 @@ Deploy [Hermes Agent](https://github.com/NousResearch/hermes-agent) on [Railway]
 
 This template always builds from the latest upstream Hermes Agent source (`HERMES_REF=main` by default). Every redeploy that rebuilds the image pulls the newest `main` branch.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/hermes-web-dashboard)
 
 > Hermes Agent is an autonomous AI agent by [Nous Research](https://nousresearch.com/) that lives on your server, connects to your messaging channels (Telegram, Discord, Slack, WhatsApp, ntfy, and more), and gets more capable the longer it runs.
 
