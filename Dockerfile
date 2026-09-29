@@ -68,7 +68,7 @@ db.close()"
 # Default: always track upstream main (latest). Override with a release tag
 # (format `vYYYY.M.D`, e.g. `v2026.9.24`) via Railway build arg / variable
 # HERMES_REF for a pinned, reproducible deploy.
-ARG HERMES_REF=main
+ARG HERMES_REF=v2026.9.24
 
 # Persist the build arg into the runtime env so the admin UI can display which
 # Hermes release this image actually pins. Reading it (rather than hardcoding a
