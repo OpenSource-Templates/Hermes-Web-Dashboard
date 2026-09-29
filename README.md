@@ -1,3 +1,5 @@
+![Hermes Web Dashboard](https://raw.githubusercontent.com/OpenSource-Templates/Hermes-Web-Dashboard/main/hermes-banner.png)
+
 # Deploy and Host Hermes Agent on Railway (with Web Dashboard)
 
 Deploy [Hermes Agent](https://github.com/NousResearch/hermes-agent) on [Railway](https://railway.app) with a web-based admin dashboard for configuration, gateway management, and user pairing.
